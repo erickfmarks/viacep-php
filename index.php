@@ -12,7 +12,7 @@ if($info['http_code']==200) {
     $bairro = $json_str["bairro"];
     $localidade = $json_str["localidade"];
     $uf = $json_str["uf"];
-    echo 'Rua: '.$logradouro.' - Bairro: '.$bairro.' - Cidade: '.$localidade. ' - UF: '.$uf; //Comentar no uso (serve para tests)
+    echo 'Rua: '.$logradouro.' - Bairro: '.$bairro.' - Cidade: '.$localidade. ' - UF: '.$uf; //Comentar no uso (serve para testes)
 }else{
     //Offline
     echo 'A API está indisponível';
