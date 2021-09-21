@@ -1,6 +1,6 @@
 # API ViaCEP - PHP
 
-O código foi feito no intuito de colaborar com a comunidade de PHP, agilzando o processo de busca. Abaixo as instruções da própria API.
+O código foi feito no intuito de colaborar com a comunidade de PHP, agilizando o processo de busca. Abaixo as instruções da própria API.
 
 https://viacep.com.br/
 
