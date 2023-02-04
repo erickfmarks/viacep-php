@@ -30,5 +30,5 @@ function curl_info($url){
     $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
     return $info;
 }
-
+//TUDO CERTO
 ?>
